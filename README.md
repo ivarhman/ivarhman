@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+![](https://raw.githubusercontent.com/ivarhman/stats/master/generated/overview.svg#gh-dark-mode-only)
 <!--
 **ivarhman/ivarhman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
