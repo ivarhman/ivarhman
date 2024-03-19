@@ -1,7 +1,15 @@
 ### Hi there 👋
+Masters in Physical Performance, specialiced in biomechanics.
+
+I am currently working at the Norwegian School of sports sciences as a research technician.
 
 
-![](https://raw.githubusercontent.com/ivarhman/stats/master/generated/overview.svg#gh-dark-mode-only)
+## Github stats:
+
+
+![](https://raw.githubusercontent.com/ivarhman/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/ivarhman/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+
 <!--
 **ivarhman/ivarhman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
